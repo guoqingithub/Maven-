@@ -1,2 +1,2 @@
 # Maven-
-Maven版的SSM商城
+Maven改良的SSM商城
